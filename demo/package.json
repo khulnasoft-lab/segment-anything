@@ -52,7 +52,7 @@
     "webpack-merge": "^5.8.0"
   },
   "dependencies": {
-    "npyjs": "^0.4.0",
+    "npyjs": "^0.6.0",
     "onnxruntime-web": "^1.14.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
